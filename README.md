@@ -1,5 +1,5 @@
 # KAG docker server
-A King Arthur's Gold game server runnin with docker
+A King Arthur's Gold game server running with docker
 
 See on [DockerHub](https://hub.docker.com/r/klemek/kag-server/)
 
